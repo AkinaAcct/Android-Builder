@@ -9,10 +9,10 @@
     },
     "toolchains": [
       {
-        "name": "clang-r383902",
+        "name": "r450784e",
         "repo": "https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86",
-        "branch": "master-kernel-build-2021",
-        "binaryEnv": ["clang-r383902/bin"]
+        "branch": "master-kernel-build-2022",
+        "binaryEnv": ["clang-r450784e/bin"]
       }
     ],
     "enableCcache": true,
