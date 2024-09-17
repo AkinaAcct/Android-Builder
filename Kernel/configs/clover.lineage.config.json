@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "clover",
-      "repo": "https://github.com/pix106/android_kernel_xiaomi_southwest-4.19/tree/main",
+      "repo": "https://github.com/pix106/android_kernel_xiaomi_southwest-4.19",
       "branch": "main",
       "device": "clover",
       "defconfig": "clover_defconfig"
