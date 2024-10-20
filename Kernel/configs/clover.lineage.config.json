@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "clover-lineage-southwest",
-      "repo": "https://github.com/pix106/android_kernel_xiaomi_southwest-4.19",
+      "repo": "https://github.com/AkinaAcct/android_kernel_xiaomi_southwest-4.19",
       "branch": "main",
       "device": "clover",
       "defconfig": "clover_defconfig"
