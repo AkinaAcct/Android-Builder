@@ -2,17 +2,17 @@
   {
     "kernelSource": {
       "name": "clover-lineage-southwest",
-      "repo": "https://github.com/AkinaAcct/android_kernel_xiaomi_southwest-4.19",
+      "repo": "https://github.com/pix106/android_kernel_xiaomi_southwest-4.19",
       "branch": "main",
       "device": "clover",
       "defconfig": "clover_defconfig"
     },
     "toolchains": [
       {
-        "name": "r450784e",
+        "name": "r487747c",
         "repo": "https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86",
-        "branch": "master-kernel-build-2022",
-        "binaryEnv": ["clang-r450784e/bin"]
+        "branch": "main-kernel-build-2023",
+        "binaryEnv": ["clang-r487747c/bin"]
       }
     ],
     "enableCcache": true,
@@ -30,6 +30,6 @@
       "release": false
     },
     "enableKernelSU": false,
-    "enableLXC": true
+    "enableLXC": false
   }
 ]
