@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": {
-      "name": "clover-lineage-southwest",
-      "repo": "https://github.com/pix106/android_kernel_xiaomi_southwest-4.19",
-      "branch": "main",
+      "name": "clover-lineage",
+      "repo": "https://github.com/AkinaAcct/android_kernel_xiaomi_sdm660",
+      "branch": "lineage-22.1",
       "device": "clover",
       "defconfig": "clover_defconfig"
     },
@@ -15,7 +15,7 @@
         "binaryEnv": ["clang-r487747c/bin"]
       }
     ],
-    "enableCcache": true,
+    "enableCcache": false,
     "params": {
       "ARCH": "arm64",
       "CC": "clang",
