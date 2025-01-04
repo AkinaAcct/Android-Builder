@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "clover",
       "repo": "https://github.com/AkinaAcct/crdroid_android_kernel_xiaomi_sdm660",
-      "branch": "14.0",
+      "branch": "14.0-lxc",
       "device": "clover",
       "defconfig": "clover_defconfig"
     },
@@ -30,6 +30,6 @@
       "release": true
     },
     "enableKernelSU": false,
-    "enableLXC": true
+    "enableLXC": false
   }
 ]
