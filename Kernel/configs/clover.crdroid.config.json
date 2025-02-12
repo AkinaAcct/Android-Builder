@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "clover",
       "repo": "https://github.com/AkinaAcct/crdroid_android_kernel_xiaomi_sdm660",
-      "branch": "14.0",
+      "branch": "15.0-NoKSUN",
       "device": "clover",
       "defconfig": "clover_defconfig"
     },
